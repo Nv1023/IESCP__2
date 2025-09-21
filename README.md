@@ -89,3 +89,7 @@ Follow the steps below to set up and run the application locally.
 mailhog
 ```
   Access the Mailhog UI at: ```http://127.0.0.1:8025```
+  ---
+## Author
+Developed by Nv1023
+
